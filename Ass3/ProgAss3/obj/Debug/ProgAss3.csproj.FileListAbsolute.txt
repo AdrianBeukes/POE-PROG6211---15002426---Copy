@@ -1,0 +1,15 @@
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss2\bin\Debug\ProgAss3.exe.config
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\bin\Debug\ProgAss3.exe.config
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\bin\Debug\ProgAss3.exe
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\bin\Debug\ProgAss3.pdb
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.csprojResolveAssemblyReference.cache
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.Properties.Resources.resources
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.csproj.GenerateResource.Cache
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.exe
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.pdb
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.frmDisplay.resources
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.frmHelp.resources
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.frmLogin.resources
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.frmMainMenu.resources
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.frmRegister.resources
+Z:\ProgASS3 - 1.1 - Copy - Copy - Copy\ProgAss3\obj\Debug\ProgAss3.frmUpdate.resources

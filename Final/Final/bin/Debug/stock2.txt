@@ -1,0 +1,3 @@
+surfboards 	 50 	 46 	 4
+bodyboards 	 45 	 16 	 29
+wet suits	   	 35 	 34 	 1
